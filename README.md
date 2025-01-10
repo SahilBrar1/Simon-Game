@@ -18,3 +18,24 @@ A web-based memory game where players mimic increasingly complex patterns of but
 - **HTML**: Structure of the web page.
 - **CSS**: Styling for the game layout and animations.
 - **JavaScript**: Game logic, user interactions, and sound effects.
+
+
+## 🔊 Sound Effects
+- Button press: `90s-game-ui-2-185095.mp3`
+- Game over: `game-over-arcade-6435.mp3`
+- User button press: `muffled-sound-of-falling-game-character-131797.mp3`
+
+## 🖥️ Live Demo
+You can play the game online here: [Simon Game Live Demo](https://github.com/SahilBrar1/Simon-Game/)  
+
+## 📜 License
+This project is licensed under the MIT License. Feel free to modify and use it as you wish!
+
+## 👨‍💻 Author
+- **Sahil**  
+  GitHub Profile-(https://github.com/SahilBrar1/Simon-Game/)
+
+---
+![image](https://github.com/user-attachments/assets/bb3ca67a-8461-430e-841c-247c1c1f923a)
+
+Feel free to tweak the content to better suit your style or add additional sections like "Challenges Faced" or "Future Improvements." Let me know if you need help with deployment or anything else! 😊
